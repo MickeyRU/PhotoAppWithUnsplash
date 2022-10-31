@@ -1,0 +1,6 @@
+framework module Pods_PhotoAppWithUnsplash {
+  umbrella header "Pods-PhotoAppWithUnsplash-umbrella.h"
+
+  export *
+  module * { export * }
+}
